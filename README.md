@@ -6,7 +6,7 @@
 # macOS (Apple Silicon): the desktop app bundle
 brew install --cask pyhttp2/pyhttp/pyhttp
 
-# macOS (Intel or ARM) and Linux: the pyhttp command, installed from PyPI
+# macOS (Intel or ARM) and Linux: the pyhttp command (Python package)
 brew install pyhttp2/pyhttp/pyhttp-app
 ```
 
