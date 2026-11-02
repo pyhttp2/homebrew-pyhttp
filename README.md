@@ -6,8 +6,8 @@
 # macOS (Apple Silicon): the desktop app bundle
 brew install --cask pyhttp2/pyhttp/pyhttp
 
-# macOS (Intel or ARM) and Linux: the pyhttp command (Python package)
-brew install pyhttp2/pyhttp/pyhttp-app
+# macOS (Intel or ARM) and Linux: the pyhttp command (Python package, no app bundle)
+brew install pyhttp2/pyhttp/pyhttp
 ```
 
 No `brew tap` needed — the commands above tap this repository automatically. The cask and formula are updated by the [release workflow](https://github.com/pyhttp2/pyhttp) on every release.
