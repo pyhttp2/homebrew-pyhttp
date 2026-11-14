@@ -7,8 +7,8 @@ class Pyhttp < Formula
 
   desc "Local API client and alternative to Postman, with runner, mocks and MCP"
   homepage "https://pyhttp.com"
-  url "https://github.com/pyhttp2/pyhttp/releases/download/v2.2.1/pyhttp_app-2.2.1.tar.gz"
-  sha256 "8bce00cee7fb3b32bb42806e92e9cae20db9b8ba5a96f49a70ae3e78d9dbfe01"
+  url "https://github.com/pyhttp2/pyhttp/releases/download/v2.2.2/pyhttp_app-2.2.2.tar.gz"
+  sha256 "42907890d0484be34ea0a2de0e94c425bc2557bf1a72f48ad45a9f6edfdb42da"
   license :cannot_represent # pyhttp Free License 1.1 (LICENSE.md on each release)
 
   depends_on "python@3.12"
